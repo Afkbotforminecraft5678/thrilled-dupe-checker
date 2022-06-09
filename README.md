@@ -1,7 +1,7 @@
 # thrilled-dupe-checker
 Checks for duped items in Hypixel Skyblock
 
-#Download
+#download
 You can download the mod here. The mod installs dependencies when the game is first launched.
 
 #Information
